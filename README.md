@@ -6,10 +6,10 @@ This project is a Face Detection Attendance System that automatically tracks att
 
 ## **Features**
 
-- **Face Detection**: Automatically detects faces from an image or video using OpenCV.
+- **Face Detection**: Automatically detects faces from an image or video.
 - **Attendance Management**: Records the name of the detected individual and logs their attendance in a MySQL database.
 - **Database Integration**: Stores attendance data in a relational database.
-- **Real-time Monitoring**: Can be extended to monitor attendance in real-time using a webcam.
+- **Real-time Monitoring**: Can be extended to monitor attendance in real-time.
 
 ---
 
