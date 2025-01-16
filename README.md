@@ -16,7 +16,6 @@ This project is a Face Detection Attendance System that automatically tracks att
 ## **Technologies Used**
 
 - **Java**: Programming language for implementing the core logic.
-- **OpenCV**: Used for face detection and image processing.
 - **MySQL**: Database to store attendance records.
 - **JDBC**: Java Database Connectivity for interacting with MySQL.
 - **Maven/Gradle**: Dependency management for libraries like OpenCV and MySQL Connector.
